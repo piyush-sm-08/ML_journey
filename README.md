@@ -16,11 +16,6 @@ This repository documents my progress as I explore ML concepts, algorithms, and 
 
 ## 📂 Repository Structure
 
-├── notebooks/ # Jupyter notebooks for each concept or project
-├── datasets/ # Sample datasets used for learning
-├── projects/ # Small ML experiments and mini-projects
-└── README.md # You’re here!
-
 
 ---
 
